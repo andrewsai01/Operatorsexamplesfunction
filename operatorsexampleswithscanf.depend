@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701931094 source:c:\users\user\desktop\ai batch\project\operatorsexampleswithscanf\main.c
+	<stdio.h>
+	<stdlib.h>
+
